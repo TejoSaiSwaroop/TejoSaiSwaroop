@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TejoSaiSwaroop
-- 👀 I’m interested in Python,Data Science and Machine Learning
-- 🌱 I’m currently learning Python  
+- 👀 I’m interested in Python,Java,Web Development and Machine Learning.
+- 🌱 I’m currently learning and mastering Java. 
 -  I'm interested to collab with Python Projects and learn about python.
 
 <!---
