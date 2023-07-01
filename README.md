@@ -1,4 +1,4 @@
-![banner](https://github.com/TejoSaiSwaroop/TejoSaiSwaroop/blob/main/Black%20and%20Blue%20Abstract%20LinkedIn%20banner.png?raw=true)
+![:)](https://github.com/TejoSaiSwaroop/TejoSaiSwaroop/blob/main/Black%20and%20Blue%20Abstract%20LinkedIn%20banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Swaroop</h1>
 <h3 align="center">A passionate Computer Science student.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
