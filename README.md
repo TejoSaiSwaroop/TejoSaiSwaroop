@@ -19,7 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tejosaiswaroop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejosaiswaroop" height="30" width="40" /></a>
+<a href="https://drive.google.com/file/d/1-Ke35Pt3_fIcnBsWp0mVqfelbXAdsGBi/view?usp=sharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejosaiswaroop" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/tejosaiswaroop" target="blank"><img align="center" src="https://www.google.com/url?a=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F2205865-employee-resume-icon&psig=AOvVaw2wWte7jQ86PemoiL0-b8vr&ust=1698228848015000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDnps65joIDFQAAAAAdAAAAABAE" alt="Resume" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dracowizardgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dracowizardgaming" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saiswaroop2674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saiswaroop2674" height="30" width="40" /></a>
 </p>
