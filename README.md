@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tejosaiswaroop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejosaiswaroop" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tejosaiswaroop" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="tejosaiswaroop" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dracowizardgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dracowizardgaming" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saiswaroop2674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saiswaroop2674" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saiswaroop26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saiswaroop26" height="30" width="40" /></a>
