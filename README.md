@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **saiswaroop2674@gmail.com**
 
-- 📄 Know about my experiences via my [Resume][https://drive.google.com/file/d/1-Tq1tsvfn3Q0aFeX97BlxSxswBhiqXdg/view?usp=sharing]
+- 📄 Know about my experiences via my [Resume](https://drive.google.com/file/d/1-Tq1tsvfn3Q0aFeX97BlxSxswBhiqXdg/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a competitive gamer**
 
