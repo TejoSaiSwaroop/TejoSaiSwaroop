@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejo Sai Swaroop</h1>
 <h3 align="center">A nerdy gamer</h3>
-
+<h4>[My Portfolio](https://swaroop-portfolio.vercel.app/)</h4>
 - 🔭 I’m currently working on **APIs and MERN Stack**
 
 - 🌱 I’m currently learning **FullStack**
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **saiswaroop2674@gmail.com**
 
-- 📄 Know about my experiences via my [Resume](https://drive.google.com/file/d/1-Tq1tsvfn3Q0aFeX97BlxSxswBhiqXdg/view?usp=sharing)
+- 📄 Know about my experiences via my [Resume](https://drive.google.com/file/d/107US6RxRjsuhzmtfmAbJtokLIBe8CG6S/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a competitive gamer**
 
