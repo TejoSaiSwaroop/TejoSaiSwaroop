@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejo Sai Swaroop</h1>
 <h3 align="center">A nerdy gamer</h3>
 
--  [My Portfolio](https://swaroop-portfolio.vercel.app/)
+-  [Visit my website](https://tejosaiswaroop.com/)
 
 - 🔭 I’m currently working on **APIs and MERN Stack**
 
