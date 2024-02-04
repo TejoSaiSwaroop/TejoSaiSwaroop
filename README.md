@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FullStack**
 
-- 👯 I’m looking to collaborate on **Full-Stack and DevOps**
+- 👯 I’m looking to collaborate on **Full-Stack and AI**
 
 - 🤝 I’m looking for help with **Open Source**
 
